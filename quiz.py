@@ -5,7 +5,7 @@ def poser_question(question, reponses, reponse_correcte):
     for lettre, reponse in reponses.items():
         print(f"{lettre}) {reponse}")
 
-    choix_utilisateur = input("Votre réponse (lettre) : ").lower()
+    choix_utilisateur = input("Votre réponse (lettre) : ").lower().strip()
     return choix_utilisateur == reponse_correcte
 
 def lancer_quiz(questions):
