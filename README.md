@@ -1,91 +1,47 @@
-# Project Title
+# Quiz Game
 
-This is my attempt at creating a small quizz game
+This project is a simple quiz game implemented in Python.
 
 ## Getting Started
 
-In order to start this project, 
-
-* please clone the repository: git clone https://github.com/KryMucus/-Quiz_Game---Jules_Deleuse---CDOF3- 
-
-* then activate the virtual environement : source quizzenv/bin/activate
-
-* and start the game with : python app.py
-
+These instructions will guide you on how to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-No Prerequisite for this game
+This game requires Python to run. If you don't have Python installed, you can download it from [here](https://www.python.org/downloads/).
 
-### Installing
+### Installation
 
-A step by step series of examples that tell you how to get a development env running
+Follow these steps to get the game running:
 
-Say what the step will be
+1. Clone the repository:
+   ```
+   git clone https://github.com/KryMucus/-Quiz_Game---Jules_Deleuse---CDOF3-
+   ```
 
-```
-Give the example
-```
+2. Navigate into the cloned repository:
+   ```
+   cd -Quiz_Game---Jules_Deleuse---CDOF3-
+   ```
 
-And repeat
+3. Activate the virtual environment:
+   ```
+   source quizzenv/bin/activate
+   ```
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+4. Start the game:
+   ```
+   python app.py
+   ```
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+This section will be updated with instructions on how to run the automated tests for this system.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+If you would like to contribute to this project, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
