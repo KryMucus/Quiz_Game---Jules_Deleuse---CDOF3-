@@ -1,11 +1,16 @@
 import random
 
+from colorama import Fore,Style
+
 def poser_question(question, reponses, reponse_correcte):
     print(question)
     for lettre, reponse in reponses.items():
         print(f"{lettre}) {reponse}")
 
     choix_utilisateur = input("Votre réponse (lettre) : ").lower().strip()
+    while choix_utilisateur not in reponses.keys():
+        print(Fore.YELLOW + "Invalid Response, enter again!")
+        choix_utilisateur = input("Votre réponse (lettre) : ").lower().strip()
     return choix_utilisateur == reponse_correcte
 
 def lancer_quiz(questions):
@@ -13,10 +18,12 @@ def lancer_quiz(questions):
     for question, infos in questions.items():
         reussi = poser_question(question, infos["reponses"], infos["reponse_correcte"])
         if reussi:
-            print("Bonne réponse !")
+            print(Fore.GREEN + "Bonne réponse !")
+            print(Style.RESET_ALL)
             score += 1
         else:
-            print("Mauvaise réponse.")
+            print(Fore.RED + "Mauvaise réponse.")
+            print(Style.RESET_ALL)
     print(f"Votre score final : {score}/{len(questions)}")
 
 if __name__ == "__main__":

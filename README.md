@@ -31,7 +31,7 @@ Follow these steps to get the game running:
 
 4. Start the game:
    ```
-   python app.py
+   python quiz.py
    ```
 
 ## Running the tests
