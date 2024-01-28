@@ -36,6 +36,18 @@ if __name__ == "__main__":
             "reponses": {"a": "Océan Atlantique", "b": "Océan Pacifique", "c": "Océan Indien"},
             "reponse_correcte": "b"
         },
+       "Quel est le fleuve le plus long du monde ?":{
+            "reponses":{"a": "Amazone", "b": "Nil", "c": "Rhin"},
+            "reponse_correcte": "b"
+            },
+        "Quel est le symbole chimique de l'or ?": {
+            "reponses":{"a": "Au", "b": "O", "c": "Os"},
+            "reponse_correcte": "a"
+            },
+        "Qui a écrit l'Odysée ?":{
+            "reponses": {"a": "Cicéron", "b": "Platon", "c": "Homère"},
+            "reponse_correcte": "c"
+            },
         "Qu'est-ce qu'une attaque de phishing en cybersécurité ?": {
             "reponses": {"a": "Une attaque visant à perturber un site web", "b": "Une attaque visant à voler des informations sensibles en se faisant passer pour légitime", "c": "Une attaque visant à bloquer l'accès à un réseau"},
             "reponse_correcte": "b"
