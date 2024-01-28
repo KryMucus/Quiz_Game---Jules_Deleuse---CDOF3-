@@ -16,12 +16,12 @@ Follow these steps to get the game running:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/KryMucus/-Quiz_Game---Jules_Deleuse---CDOF3-
+   git clone https://github.com/KryMucus/Quiz_Game---Jules_Deleuse---CDOF3-
    ```
 
 2. Navigate into the cloned repository:
    ```
-   cd -Quiz_Game---Jules_Deleuse---CDOF3-
+   cd Quiz_Game---Jules_Deleuse---CDOF3-
    ```
 
 3. Activate the virtual environment:
