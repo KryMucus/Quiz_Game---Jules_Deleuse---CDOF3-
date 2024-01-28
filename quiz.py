@@ -44,7 +44,7 @@ if __name__ == "__main__":
             "reponses":{"a": "Au", "b": "O", "c": "Os"},
             "reponse_correcte": "a"
             },
-        "Qui a écrit l'Odysée ?":{
+        "Qui a écrit l'Odyssée ?":{
             "reponses": {"a": "Cicéron", "b": "Platon", "c": "Homère"},
             "reponse_correcte": "c"
             },
