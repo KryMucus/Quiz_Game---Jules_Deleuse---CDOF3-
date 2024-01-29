@@ -1,0 +1,8 @@
+Question,Responses,Correct Response
+Quelle est la capitale de la France ?,"{'a': 'Lyon', 'b': 'Marseille', 'c': 'Paris'}",c
+Quel est le plus grand océan du monde ?,"{'a': 'Océan Atlantique', 'b': 'Océan Pacifique', 'c': 'Océan Indien'}",b
+Qu'est-ce qu'une attaque de phishing en cybersécurité ?,"{'a': 'Une attaque visant à perturber un site web', 'b': 'Une attaque visant à voler des informations sensibles en se faisant passer pour légitime', 'c': ""Une attaque visant à bloquer l'accès à un réseau""}",b
+Quelle est la principale fonction d'un pare-feu (firewall) dans un réseau informatique ?,"{'a': 'Protéger contre les incendies', 'b': 'Filtrer le trafic réseau pour bloquer les menaces potentielles', 'c': 'Améliorer la vitesse de la connexion Internet'}",b
+Que signifie l'acronyme VPN en cybersécurité ?,"{'a': 'Vraiment Pas Nécessaire', 'b': 'Virtual Private Network', 'c': 'Vraiment Pas Sûr'}",b
+Quelle est la méthode la plus courante pour protéger un mot de passe en ligne ?,"{'a': 'Partager le mot de passe avec des amis', 'b': 'Utiliser un mot de passe simple et facile à retenir', 'c': 'Utiliser un gestionnaire de mots de passe et créer des mots de passe forts'}",c
+Qu'est-ce qu'une vulnérabilité 'zero-day' en sécurité informatique ?,"{'a': ""Une vulnérabilité qui n'existe pas"", 'b': 'Une vulnérabilité qui est déjà connue et corrigée', 'c': ""Une vulnérabilité fraîchement découverte qui n'a pas encore de correctif disponible""}",c
